@@ -1,5 +1,5 @@
 Bin‑Aware Counterfactual Simulation for Process Mining
-Reproducible code and materials for the BPMJ submission
+Reproducible code and materials for the JBI submission
 This repository contains the full implementation, preprocessing scripts, modelling pipeline, and replication materials used in the study:
 “Bin‑Aware Counterfactual Simulation for Process Mining:
 A Methodological Framework Applied to Sepsis Care Pathways.”
